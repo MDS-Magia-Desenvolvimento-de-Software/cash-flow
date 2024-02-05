@@ -1,4 +1,4 @@
-# Gerenciamento de Despesas de Viagens Cooperativas
+# Gerenciamento de Despesas de Viagens Corporativas
 
 ## Problema
 - **Área:** Financeiro
