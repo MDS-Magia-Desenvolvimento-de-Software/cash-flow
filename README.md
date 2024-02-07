@@ -77,9 +77,33 @@ Os supervisores terão acesso a um painel centralizado para:
   - 1 Gerente de Projeto.
   - R$7.000,00
 
+
+
+
 ## Documentação
 - **Requisitos Funcionais:**
-  - A definir
+  
+**Usuário / Funcionário **
+   - Funcionário pode cadastrar uma despesa 
+   - Funcionário pode visualizar suas despesas
+  - Funcionário poderá marcar despesa como deletada
+  - Funcionário poderá atualizar em suas despesas
+
+
+**Usuário Gerente **
+- Visualizar despesas de todos funcionários
+- Cadastrar viagem
+- Deletar uma Viagem
+- Alterar uma viagem
+- Visualizar lista de viagens agendadas
+- Adicionar funcionário a uma viajem
+- Cadastro de um funcionário
+- Deletar um funcionário
+- Alterar dados de um funcionário
+- Visualizar lista de funcionários
+
+
+
 
 ## Avaliação do Projeto
 1. **Taxa de Adoção do Aplicativo:**
