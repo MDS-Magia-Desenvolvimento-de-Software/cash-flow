@@ -102,6 +102,9 @@ Os supervisores terão acesso a um painel centralizado para:
 - Alterar dados de um funcionário
 - Visualizar lista de funcionários
 
+- ![image](https://github.com/MDS-Magia-Desenvolvimento-de-Software/cash-flow/assets/116233666/bf49f205-dc87-459e-a05f-91ceace18d65)
+
+
 
 
 
