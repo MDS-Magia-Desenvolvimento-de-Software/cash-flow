@@ -1,0 +1,80 @@
+/* FONTS */
+@font-face {
+    font-family: 'fonteRIOT';
+    src: url('../font/ProtestRiot-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'fonteslowdex';
+    src: url('../font/Slowdex.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'fontejust';
+    src: url('../font/Just\ Believe.otf') format('opentype');
+}
+
+/* Cores personalizadas */
+:root {
+    --cor-branco: #FFFFFF;
+    --cor-azul: #0A2239;
+    --cor-azulClaro: #0A2239;
+    --cor-amarelo: #E9B418;
+}
+
+
+.color {
+    background-color: var(--cor-azul);
+}
+
+
+.texto {
+    font-family: 'fonteslowdex';
+}
+
+
+img {
+    width: 70%;
+}
+
+
+.img-animation {
+    animation: moveImage 5s infinite alternate;
+}
+
+@keyframes moveImage {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
+header {
+    font-size: 1.5rem;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+section {
+    padding: 50px 0;
+}
+
+
+footer p {
+    font-size: 0.9rem;
+}
+
+footer .bi {
+    font-size: 1.5rem;
+}
+
