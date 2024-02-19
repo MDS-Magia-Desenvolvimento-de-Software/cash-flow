@@ -28,13 +28,18 @@
 }
 
 
-.texto {
+.texto-title {
     font-family: 'fonteslowdex';
+    font-size: 52pt;
 }
 
+.texto{
+    font-family: 'fonteslowdex';
+    font-size: 22pt;
+}
 
 img {
-    width: 70%;
+    width: 50%;
 }
 
 
@@ -63,6 +68,10 @@ nav ul li {
     display: inline-block;
     margin-right: 15px;
 }
+nav{
+    display: flex;
+    flex-direction: row;
+}
 
 
 section {
@@ -77,4 +86,3 @@ footer p {
 footer .bi {
     font-size: 1.5rem;
 }
-
